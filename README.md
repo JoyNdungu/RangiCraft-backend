@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="logo" src="https://github.com/user-attachments/assets/64bc7746-8cda-4a96-bd46-fbb233c4654f" />
+<img width="250" height="250" alt="logo" src="https://github.com/user-attachments/assets/64bc7746-8cda-4a96-bd46-fbb233c4654f" />
 
 # RangiCraft — Backend
 
@@ -66,7 +66,7 @@ Environment Variables
 Create a .env file in the root:
 
 ```
-envPORT=5000
+PORT=5000
 MONGO_URI=mongodb+srv://youruser:yourpassword@cluster0.xxxxx.mongodb.net/rangicraft
 NODE_ENV=development
 ```
@@ -148,4 +148,4 @@ git commit -m "add: your feature description"
 
 4. Push to your fork and open a Pull Request on GitHub
 
-## Frontend: [rangi-craft-frontend.vercel.app](https://rangi-craft-frontend.vercel.app/)
+### Frontend: [rangi-craft-frontend.vercel.app](https://rangi-craft-frontend.vercel.app/)
