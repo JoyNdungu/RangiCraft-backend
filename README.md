@@ -1,5 +1,6 @@
 <img width="1536" height="1024" alt="logo" src="https://github.com/user-attachments/assets/64bc7746-8cda-4a96-bd46-fbb233c4654f" />
- # RangiCraft — Backend
+
+# RangiCraft — Backend
 
 ## REST API for RangiCraft — the African market color palette generator.
 
